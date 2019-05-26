@@ -1,1 +1,1 @@
-this is the version 2 of my app.
+This is the updated version of my app of version 2.
